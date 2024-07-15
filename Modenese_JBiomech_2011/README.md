@@ -1,4 +1,4 @@
-If you use this model for your research please cite the original publication describing the model implementation:
+If you use this model for your research please cite [the original publication](https://doi.org/10.1016/j.jbiomech.2011.06.019) describing the model implementation:
 
 ```bibtex
 @article{modenese2011open,
@@ -13,7 +13,9 @@ If you use this model for your research please cite the original publication des
 }
 ```
 
-The model has also been used in further validation studies for gait at different speeds in the following publication:
+The model has also been used in further validation studies.
+
+One consisted of assessment for gait simulations at different speeds [in the following publication](https://link.springer.com/article/10.1007/s11044-011-9274-7):
 
 ```bibtex
 @article{modenese2012prediction,
@@ -27,7 +29,7 @@ The model has also been used in further validation studies for gait at different
 }
 ```
 
-and in a more advanced falsification approach:
+and in a more advanced [falsification approach](https://doi.org/10.1016/j.jbiomech.2012.11.045):
 
 ```bibtex
 @article{modenese2013application,
