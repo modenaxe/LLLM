@@ -2,7 +2,7 @@
 
 This repository relates to a publication presenting a workflow to link musculoskeletal simulations to finite element analysis using consistent bone geometries and loadings.
 
-The paper presents and uses an improved version of the musculoskeletal model published by Modenese et al. (2011).
+The paper, [available at this link](https://doi.org/10.1080/23335432.2015.1017609), presents and uses a musculoskeletal model of the lower limb based on that published by Modenese et al. (2011) but with multiple improvements around the hip joint.
 
 ```bibtex
 @article{phillips2015femoral,
